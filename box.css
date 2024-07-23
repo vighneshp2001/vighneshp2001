@@ -1,0 +1,124 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+        .heading{
+            text-align: center;
+            margin-top: 50px;
+            color: aliceblue;
+            
+        }
+        .paragraph{
+            margin-bottom: 40px;
+            text-align: center;
+            color: aliceblue;
+        }
+        
+ 
+    background-image: url(./pics/dep.png);
+    background-size: 100% ;
+    width: 100%;
+    height: 40vh;
+    padding-top: 30px;
+    opacity: 0.9;
+    
+}
+.containerone{
+    width: 100%;
+    height: 25vh;
+    gap: 50px;
+    margin-top: 40px;
+    display: flex;
+    text-align: center;
+    margin-left: 79px;
+}
+.head{
+    color: aquamarine;
+}
+.mini{
+    color: blue;
+}
+.minihead{
+    color: burlywood;
+}
+.but1{
+    border: none;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    padding: 10px;
+}
+.but2{
+    border: none;
+    background-color: coral;
+    color: aliceblue;
+    padding: 10px;
+}
+.but3{
+    border: none;
+    background-color: violet;
+    color: aliceblue;
+    padding: 10px;
+}
+.wrapperone{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.headone{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.headtwo{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.containertwo{
+    width: 100%;
+    height: 25vh;
+    margin-top: 40px;
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+}
+.top{
+    text-align: center;
+    color: cornflowerblue;
+}
+.topone{
+    text-align: center;
+    color: darkgreen;
+}
+.toptwo{
+    text-align: center;
+    color: brown;
+}
+.manage{
+    text-align: center;
+}
+.drive{
+    margin-left: 128px;
+    border: none;
+    background-color: tomato;
+    color: aliceblue;
+    padding: 10px;
+}
+.driveone{
+    margin-left: 128px;
+    border: none;
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 10px;
+}
+.drivetwo{
+    margin-left: 128px;
+    border: none;
+    background-color: seagreen;
+    color: aliceblue;
+    padding: 10px;
+}
+.level{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.levelone{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.leveltwo{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}

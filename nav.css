@@ -1,0 +1,36 @@
+body{
+    background-color: aquamarine;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.head{
+    margin-top: 200px;
+    margin-left: 480px;
+}
+ul{
+    display: flex;
+    justify-content:space-around;
+    gap: 2rem;
+    align-items: center;
+}
+li{
+    list-style: none;
+}
+p{
+    width: 700px;
+    margin-left: 280px;
+}
+button{
+    margin-left: 580px;
+    margin-top: 10px;
+    border:none;
+    background-color: rgb(249, 221, 13);
+    color: aliceblue;
+    padding: 10px;
+}

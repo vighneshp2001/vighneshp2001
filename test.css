@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+   
+.main{
+    width: 100%;
+    height: 50vh;
+    
+    background-image: url(https://th.bing.com/th/id/OIP.eqFA44eYLt4VSG4Xt2Tr1AAAAA?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-y: top 
+}
+.button{
+    border: none;
+    padding: 10px;
+    background-color: yellow;
+    color: aliceblue;
+}

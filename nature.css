@@ -1,0 +1,57 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    margin: auto;
+    padding: 10px;
+    width: 95%;
+    height: 100vh;
+}
+.head{
+    text-align: center;
+    background-color: darkgreen;
+    color: aliceblue;
+    height: 10vh;
+    margin-left: 20px;
+    width: 100%;
+}
+.img{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: left;
+    padding: 20px;
+    gap: 10px;
+    
+}
+.paraone{
+    background-color: darkgreen;
+    color: aliceblue;
+    width: 750px;
+    height: 265px; 
+}
+img{
+    width: 400px;
+}
+
+.imgone{
+    position: relative;
+    right: 720px;
+}
+.imgthree{
+    position: relative;
+    right: 355px;
+}
+.imgfour{
+    position: relative;
+    right: 710px;
+}
+.paratwo{
+    position: relative;
+    right: 300px;
+    background-color: darkgreen;
+    color: aliceblue;
+    width: 750px;
+    height: 265px; 
+    
+}

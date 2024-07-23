@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    .list{
+        display: flex;
+        justify-content: space-evenly;
+        list-style: none;
+        gap: 2px;
+    }
+
+}
+.header{
+    margin-top: 150px;
+    margin-left: 150px;
+    background-image: url(https://wallpaperaccess.com/full/1448061.jpg);
+    background-size: 1100PX;
+    height: 50vh;
+    background-repeat: no-repeat;
+    
+}
+.but{
+    margin-top: 30PX;
+    margin-left: 25px;
+    .mimi{
+        border: none;
+        background-color: black;
+        color: aliceblue;
+    }
+}

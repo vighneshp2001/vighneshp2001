@@ -1,0 +1,28 @@
+.gridcontainer{
+    background-color: aqua;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    grid-template-rows: 1fr 3fr 1fr;
+    /* grid-template-columns: auto auto auto auto; */
+}
+.div2{
+    background-color: brown;
+}
+.div1{
+    background-color: chartreuse;
+     /* grid-column-start: 1; */
+    /* grid-column-end: 3;  */
+    grid-column: 1/3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+.div2{
+    background-color: blueviolet;
+    height: 100px;
+}
+.he1{
+    background-color: aqua;
+}
+span{
+    background-color: chartreuse;
+}
